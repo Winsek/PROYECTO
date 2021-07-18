@@ -1,0 +1,3 @@
+#proyecto
+este es un archivo readme donde explico todo de  este proyecto...
+
